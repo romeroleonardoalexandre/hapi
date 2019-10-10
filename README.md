@@ -1,1 +1,2 @@
 # hapi
+Servidor utilizando Hapi.
